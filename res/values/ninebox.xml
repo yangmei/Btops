@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="gridview1">进货理货</string>
+<string name="gridview2">提货理货</string>
+<string name="gridview3">出口装船</string>
+<string name="gridview4">进口卸船</string>
+<string name="gridview5">转场理货</string>
+<string name="gridview6">拆装转场</string>
+<string name="gridview7">船舶管理</string>
+<string name="gridview8">杂项作业</string>
+<string name="gridview9">密码修改</string>
+<string name="title">主页</string>
+</resources>
