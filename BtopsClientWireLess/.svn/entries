@@ -1,0 +1,126 @@
+10
+
+dir
+0
+file:///home/wawayang/svn_repository/BTOPS
+file:///home/wawayang/svn_repository/BTOPS
+
+
+
+2014-01-08T11:53:15.720710Z
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ce4f725-d828-4ffb-bb87-95ac169b25c3
+
+proguard-project.txt
+file
+
+
+
+add
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+bin
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+
+libs
+dir
+
+
+
+add
+
+gen
+dir
+
+
+
+add
+
+ic_launcher-web.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.settings
+dir
+
+
+
+add
+
+.classpath
+file
+
+
+
+add
+
+project.properties
+file
+
+
+
+add
+
+assets
+dir
+
+
+
+add
+
+.project
+file
+
+
+
+add
+

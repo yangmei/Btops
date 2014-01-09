@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+     android:orientation="vertical"
+     android:layout_width="fill_parent" 
+     android:layout_height="fill_parent" 
+     android:layout_weight="1.0" 
+     android:background="@drawable/background_login"
+     > 
+	<!-- 顶部标题 -->
+	<include android:id="@+id/title" layout="@layout/title" />
+ 	<!-- 底部菜单 -->
+	<include android:id="@+id/bottommenu" layout="@layout/common_bottommenu" />
+	
+<GridView
+    android:id="@+id/gridview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dip"
+    android:columnWidth="90dip"
+    android:gravity="center"
+    android:horizontalSpacing="10dip"
+    android:listSelector="@drawable/grid_selector_background"
+    android:numColumns="3"
+    android:paddingBottom="50dp"
+    android:paddingLeft="15dp"
+    android:paddingTop="50dp"
+    android:stretchMode="columnWidth"
+    android:verticalSpacing="30dip" >
+
+</GridView>
+	
+</RelativeLayout>

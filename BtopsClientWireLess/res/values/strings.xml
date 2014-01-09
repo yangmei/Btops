@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BtopsClientWireLess</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World, LoginActivity!</string>
+    <string name="login_label_work">工班</string>
+    <string name="login_label_username">帐号</string>
+    <string name="login_label_password">密码</string>
+    <string name="login_label_signin">登 录</string>
+    <string name="login_label_config">设置</string>
+    <string name="login_status_logging_in">登录中...</string>
+    <string name="login_username_hint">员工号码</string>
+    <string name="login_work_hint">0或1或2</string>
+    <string name="login_register_link">没有帐号？ <a href="#">注册</a></string>
+    <string name="login_RememberMe">记住我的账号和密码</string>
+    <string name="MENU_EXIT">退出</string>
+	<string name="MENU_ABOUT">关于</string>
+	<string name="aboutInfo">
+		制作人:杨楣 \n邮    箱: pachydermym@163.com \n上海海勃物流软件有限公司
+	</string>
+	<string name="ok_label">确认</string>
+		<!-- 底部公共菜单模块 -->
+	<string name="menu_home">首页</string>
+	<string name="menu_brand">进货</string>
+	<string name="menu_shopping_cart">提货</string>
+	<string name="menu_my_letao">装船</string>
+	<string name="menu_more">卸船</string>
+</resources>
